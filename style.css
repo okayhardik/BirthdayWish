@@ -145,7 +145,7 @@ article {
   z-index: 1000;
 }
 /* CLOSE BUTTON */
-.close-btn {
+.cta-btn {
   position: absolute;
   bottom: 10px;
   left: 10px;
